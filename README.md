@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Freddymhs/Portfolio](https://freddymhs.github.io/)]
+- 👨‍💻 All of my projects are available at https://freddymhs.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
