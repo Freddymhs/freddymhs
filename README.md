@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available [here](https://freddymhs-github-io.vercel.app)
+- 👨‍💻 All of my projects are available [here](https://freddymhs-github-io.vercel.app/about_me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
