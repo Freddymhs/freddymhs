@@ -1,4 +1,6 @@
-# Hola, soy Freddy 👋
+# Freddy Huaylla
+
+**Backend que aguanta producción. Herramientas que hacen al equipo más rápido.**
 
 <div align="center">
 
@@ -8,30 +10,32 @@
 
 </div>
 
-Bienvenido a mi GitHub. Soy desarrollador, vivo en Arica (Chile) y trabajo remoto desde hace años. Llevo más de cinco construyendo software para empresas, casi siempre del lado del backend y con JavaScript y TypeScript como idioma principal; Python es el segundo que estoy sumando.
+Node.js y TypeScript desde hace más de cinco años. APIs, microservicios, bases de datos relacionales, pipelines. Python en camino.
 
-### Lo que sé hacer
+### Lo que hago bien
 
-- **Backends que aguantan producción**: APIs REST, microservicios, bases de datos relacionales, colas y caché. Me importa más que el sistema sea fácil de operar y de cambiar que que sea ingenioso.
-- **Herramientas para el propio equipo**: hooks de git, pipelines de CI, scripts que verifican en vez de confiar. Si algo se hace dos veces a mano, lo convierto en un comando.
-- **Trabajar con agentes de IA como parte del flujo**, no como juguete: les doy reglas, los hago citar lo que afirman y reviso lo que entregan. Funciona cuando el humano sigue siendo el que decide.
-- **Frontend cuando hace falta**: React y Next.js, lo suficiente para cerrar una funcionalidad de punta a punta.
+**Convierto lo repetido en un comando.** Si algo se hace dos veces a mano, se vuelve script, hook o pipeline. [`@fmarcosdev/git-hooks`](https://github.com/Freddymhs/fmarcosdev.git-hooks): el commit avisa, el push frena. Publicado en npm.
 
-### Cómo trabajo
+**Verifico, no confío.** Un «funciona» sin evidencia no entra. Mi [radar de empleo](https://www.fmarcos.dev) rastrea tres portales dos veces al día, puntúa cada aviso contra mi perfil y recuerda lo que ya mostró: solo llega lo nuevo.
 
-- **Mido antes de afirmar.** Un «funciona» sin evidencia no me sirve, ni a mí ni al que viene después.
-- **Cambios chicos y reversibles.** Prefiero diez commits que se entienden a uno heroico.
-- **Escribo el porqué.** Las decisiones quedan documentadas donde alguien las va a buscar, no en mi cabeza.
-- **Pregunto cuando algo no cierra**, y no antes: la mitad de las dudas ya tienen respuesta en el código o en los docs.
+**Uso agentes de IA como parte del flujo.** Con reglas, citando lo que afirman y con el humano decidiendo. [`hylian-mcp`](https://github.com/fmarcos-labs/hylian-mcp) es un servidor MCP para manejar una biblioteca de Steam desde Claude.
 
-### Qué vas a encontrar acá
+**Una fuente de verdad.** [`fmarcos.dev`](https://github.com/Freddymhs/fmarcosdev.app.web) nace de un `resume.json`: una API lo sirve, un pipeline genera el CV en PDF y DOCX con mi [tema ATS](https://github.com/Freddymhs/jsonresume-theme-dev-ats-es), Vercel lo publica.
 
-- Herramientas que uso todos los días: un radar de empleo que me escribe por correo, hooks de git publicados en npm, el pipeline que convierte un `resume.json` en mi CV y mi sitio.
-- Experimentos con MCP y agentes, algunos a medio camino. Los dejo visibles a propósito.
-- Proyectos viejos que cuentan de dónde vengo. No los escondo.
+### Stack
 
-### Fuera del teclado
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-Realidad virtual, música chiptune que hago con el teclado del notebook, y aprender cosas en voz alta hasta poder explicarlas.
-
-Si algo de esto te resuena, escribime: **fmarcosdev@gmail.com** · [fmarcos.dev](https://www.fmarcos.dev) · [linkedin.com/in/freddymhs](https://linkedin.com/in/freddymhs)
+Arica, Chile · remoto · [fmarcos.dev](https://www.fmarcos.dev)
